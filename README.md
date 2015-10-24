@@ -1,7 +1,7 @@
 # Double Tap To Exit Tutorial
 So programmiert ihr ein Feature, das das ungewollte Schließen eurer App auf elegante Weise verhindert.   Der Nutzer muss die Zurücktaste einfach 2 mal drücken, um die App zu schließen.
 
-- <a href="" target="_blank" >Tutorial auf YouTube</a>
+- <a href="https://youtu.be/jft9QENstX8" target="_blank" >Tutorial auf YouTube</a>
 - Projekt für Android Studio
 
 ---
